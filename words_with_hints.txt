@@ -1,0 +1,318 @@
+# Hangman Word List with Hints
+
+[ANIMALS]
+cat:Common household pet that meows
+dog:Man's best friend
+rat:Small rodent with a long tail
+owl:Nocturnal bird of prey
+fox:Clever red-furred wild canine
+pig:Farm animal that says oink
+bat:Flying mammal active at night
+hen:Female chicken
+cow:Farm animal that gives milk
+ant:Tiny insect that works in colonies
+bee:Insect that makes honey
+fish:Lives in water and has scales
+goat:Bearded farm animal
+duck:Water bird that quacks
+frog:Amphibian that jumps
+tiger:Large striped wild cat
+horse:Domesticated animal used for riding
+zebra:African animal with black and white stripes
+camel:Desert animal with humps
+panda:Black and white bear from China
+sheep:Wooly farm animal
+snake:Slithering reptile
+eagle:Large bird of prey
+shark:Predatory fish
+whale:Largest marine mammal
+koala:Australian tree-dwelling marsupial
+llama:South American pack animal
+hyena:Laughing scavenger
+bison:Large North American bovine
+moose:Largest member of deer family
+elephant:Largest land mammal with a trunk
+giraffe:Tallest animal with a long neck
+penguin:Flightless bird that swims
+dolphin:Intelligent marine mammal
+kangaroo:Australian animal that hops
+octopus:Eight-armed sea creature
+gorilla:Large ape
+leopard:Spotted big cat
+cheetah:Fastest land animal
+gazelle:Swift African antelope
+ostrich:Largest flightless bird
+peacock:Bird with colorful tail feathers
+platypus:Egg-laying mammal
+hamster:Small pet rodent
+raccoon:Masked nocturnal scavenger
+
+[COUNTRIES]
+peru:South American country known for Machu Picchu
+cuba:Caribbean island nation
+mali:West African country
+iran:Middle Eastern country
+chad:Central African country
+fiji:Pacific island nation
+iraq:Middle Eastern country with ancient history
+laos:Southeast Asian landlocked country
+oman:Arabian peninsula country
+togo:West African coastal country
+chile:Long narrow South American country
+nepal:Himalayan mountain country
+syria:Middle Eastern country
+libya:North African country
+kenya:East African country
+spain:European country known for tapas
+italy:Boot-shaped Mediterranean country
+japan:Land of the rising sun
+china:Most populous country
+india:South Asian country with the Taj Mahal
+egypt:Land of pyramids
+korea:Asian peninsula nation
+france:Country known for the Eiffel Tower
+russia:Largest country by land area
+poland:Central European country
+greece:Ancient Mediterranean civilization
+turkey:Country spanning two continents
+mexico:North American country known for tacos
+sweden:Scandinavian country
+norway:Land of fjords
+germany:Central European country
+brazil:Largest South American country
+australia:Continent and country
+argentina:South American country known for tango
+portugal:Iberian peninsula country
+thailand:Land of smiles
+pakistan:South Asian country
+malaysia:Southeast Asian country
+tanzania:East African country with Kilimanjaro
+cambodia:Home to Angkor Wat
+ethiopia:Horn of Africa country
+colombia:South American coffee producer
+indonesia:Largest archipelago country
+singapore:Asian city-state
+zimbabwe:Southern African country
+
+[FRUITS]
+pear:Bell-shaped fruit
+kiwi:Fuzzy brown fruit with green flesh
+plum:Small round purple fruit
+lime:Small green citrus fruit
+date:Sweet dried fruit from palm trees
+figs:Sweet Mediterranean fruit
+guava:Tropical fruit with pink flesh
+melon:Large round sweet fruit
+berry:Small sweet fruit
+apple:Common red or green fruit
+peach:Fuzzy stone fruit
+grape:Small round fruit in clusters
+mango:Sweet tropical fruit
+lemon:Sour yellow citrus fruit
+cherry:Small red fruit with pit
+papaya:Tropical fruit with black seeds
+orange:Citrus fruit sharing color name
+banana:Yellow curved fruit
+apricot:Small orange stone fruit
+raisin:Dried grape
+quince:Yellow pear-like fruit
+lychee:Sweet Asian fruit with scaly skin
+dragon:Pink scaly Asian fruit
+pomelo:Large citrus fruit
+durian:Spiky Asian fruit with strong smell
+custard:Creamy tropical fruit
+jackfruit:Large tropical fruit
+soursop:Spiky green tropical fruit
+tamarind:Brown pod with sour pulp
+mulberry:Small berry growing on trees
+plantain:Cooking banana
+starfruit:Star-shaped tropical fruit
+nectarine:Smooth-skinned peach
+tangerine:Small orange citrus
+
+[SPORTS]
+golf:Sport played with clubs and balls
+judo:Japanese martial art
+swim:Water movement sport
+surf:Riding ocean waves
+race:Speed competition
+jump:Leaping sport
+dive:Plunging into water
+bowl:Rolling ball at pins
+kick:Foot striking sport
+ride:Mounted sport
+walk:Speed walking sport
+fish:Catching water creatures
+sail:Wind-powered boat sport
+ski:Snow gliding sport
+run:Fast movement sport
+rugby:Full contact ball sport
+chess:Strategic board game
+poker:Card betting game
+dance:Rhythmic movement art
+skate:Wheeled movement sport
+cycle:Two-wheeled sport
+climb:Ascending sport
+fence:Sword fighting sport
+kayak:Small boat paddling
+shoot:Target hitting sport
+sprint:Short distance running
+throw:Object projecting sport
+volley:Air-striking ball game
+paddle:Water propulsion sport
+rowing:Boat pulling sport
+soccer:Foot-only ball sport
+tennis:Racket and ball sport
+boxing:Fighting with gloves
+cricket:Bat and ball field sport
+baseball:Diamond field sport
+archery:Bow and arrow sport
+curling:Ice stone sliding
+skating:Ice gliding sport
+fencing:Sword sport
+bowling:Pin striking sport
+hunting:Animal pursuit sport
+sailing:Wind vessel sport
+surfing:Wave riding sport
+wrestling:Grappling combat sport
+
+[COLORS]
+blue:Color of the clear sky
+pink:Light red shade
+gold:Precious metal color
+gray:Neutral shade
+teal:Blue-green color
+red:Color of blood
+jade:Asian green stone color
+rust:Oxidized iron color
+rose:Pink flower color
+mint:Fresh herb green
+sage:Gray-green herb color
+plum:Dark purple fruit color
+sand:Beach-colored
+snow:Pure white color
+wine:Deep red drink color
+purple:Mix of red and blue
+yellow:Sun's color
+orange:Citrus fruit color
+silver:Metallic gray
+violet:Purple flower color
+copper:Metallic orange-brown
+bronze:Third place medal color
+auburn:Reddish-brown
+cobalt:Deep blue metal
+coral:Pink-orange sea color
+ivory:Off-white color
+beige:Light brown
+azure:Sky blue shade
+olive:Green-brown color
+mauve:Pale purple
+magenta:Bright pink-purple
+crimson:Deep rich red
+maroon:Dark brownish red
+indigo:Deep blue-purple
+scarlet:Bright red
+emerald:Deep green gem color
+sapphire:Deep blue gem color
+burgundy:Dark red wine color
+lavender:Light purple flower color
+turquoise:Blue-green gem color
+amethyst:Purple crystal color
+cerulean:Sky blue shade
+chartreuse:Yellow-green color
+periwinkle:Light blue-violet
+vermilion:Bright red-orange
+
+[JOBS]
+chef:Professional cook
+cook:Food preparer
+maid:House cleaner
+host:Event organizer
+tutor:Private teacher
+clerk:Office worker
+guard:Security person
+nurse:Healthcare worker
+guide:Tour leader
+baker:Bread maker
+waiter:Restaurant server
+actor:Stage performer
+model:Fashion displayer
+coach:Sports trainer
+driver:Vehicle operator
+doctor:Medical professional
+lawyer:Legal professional
+teacher:Education professional
+banker:Financial worker
+artist:Creative professional
+writer:Word creator
+singer:Vocal performer
+dancer:Movement artist
+farmer:Crop grower
+builder:Construction worker
+painter:Color artist
+butcher:Meat processor
+cashier:Money handler
+manager:Team leader
+trainer:Skill teacher
+surgeon:Medical operator
+dentist:Tooth doctor
+pilot:Aircraft operator
+judge:Court official
+architect:Building designer
+engineer:Technical designer
+scientist:Research professional
+professor:University teacher
+therapist:Health counselor
+designer:Creative planner
+director:Project leader
+producer:Project overseer
+reporter:News gatherer
+analyst:Data examiner
+curator:Collection manager
+
+[RANDOM]
+book:Written work with pages
+lamp:Light source
+door:Entry point
+ring:Circular jewelry
+desk:Work surface
+chair:Sitting furniture
+phone:Communication device
+clock:Time telling device
+plate:Eating surface
+brush:Cleaning tool
+shoes:Foot protection
+bread:Baked food
+glass:Transparent container
+knife:Cutting tool
+spoon:Eating utensil
+window:Glass viewing panel
+mirror:Reflection surface
+carpet:Floor covering
+pillow:Head rest
+camera:Image capture device
+pencil:Writing tool
+bottle:Liquid container
+basket:Carrying container
+candle:Wax light source
+flower:Blooming plant
+garden:Plant growing area
+jacket:Body covering
+wallet:Money holder
+coffee:Caffeinated drink
+guitar:String instrument
+computer:Electronic device
+umbrella:Rain protection
+painting:Art on canvas
+keyboard:Typing device
+diamond:Precious gem
+telescope:Star viewer
+chocolate:Sweet treat
+butterfly:Flying insect
+mountain:Large elevation
+treasure:Valuable collection
+perfume:Scented liquid
+necklace:Neck jewelry
+backpack:Carrying bag
+envelope:Letter container
+magazine:Periodic publication
